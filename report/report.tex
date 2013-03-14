@@ -21,7 +21,8 @@
 \tableofcontents
 \newpage
 \section{Introduction}
-The purpose of this assignment is to study and compare a number of sorting algorithms. A conclusion will be made based on two experiments.\\
+
+\indent The purpose of this assignment is to study and compare a number of sorting algorithms. A conclusion will be made based on two experiments.\\
 
 In the first experiment, four sorting algorithms (selection sort, insertion sort, mergesort and quicksort) are tested on their number of compares made to sort an array. Both sorted and unsorted arrays will be tested.
 
@@ -156,7 +157,11 @@ Mergesort is a semi-input-sensitive sorting algorithm. Its compares will always 
 
 The last algorithm we have tested, is the quicksort algorithm. Our experiment stated that this algorithm is rather input sensitive. Its worst case scenario has the same amount of compares that selection sort needs i.e. $\thicksim\frac{N^2}{2}$. However for random data, quicksort is a very reliable and fast algorithm. Therefore a random shuffle of the data protects against this case.\\
 
+We can conclude that mergesort is a very efficient algorithm but due to the higher amount of data access, quicksort becomes superior to mergesort.\\
+
+
 In section \ref{sec:DRE} we performed a doubling ratio experiment. This experiment stated that the doubling ratio of insertion sort was $\pm 4$ and the doubling ratio of quicksort was $\pm 2$. With these ratios it is possible to determine the time needed for these algorithms to sort an array of double the length of its previous array.
+
 
 \newpage
 \bibliographystyle{plain}

@@ -147,7 +147,8 @@ public class SortingAlgorithms {
 	 *         the algorithm, while the second element is the number of data moves.
 	 */
 	public <T extends Comparable<T>> int[] kWayMergeSort(T[] array, int k) {
-		throw new RuntimeException("not implemented");
+		int[] a = {-1,-1};
+		return a;
 	}
 
 	private boolean less(Comparable v, Comparable w){

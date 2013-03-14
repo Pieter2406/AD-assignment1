@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.12)  14 MAR 2013 22:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.12)  14 MAR 2013 23:47
 entering extended mode
 **report.tex
 
 ("C:\Users\Pieter\Documents\--- SCHOOL ---\GitHub\A&D\AD-assignment1\AD-assignm
-ent1\report.tex"
+ent1\report\report.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -422,7 +422,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 ("C:\Users\Pieter\Documents\--- SCHOOL ---\GitHub\A&D\AD-assignment1\AD-assignm
-ent1\report.aux")
+ent1\report\report.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
@@ -485,4 +485,151 @@ LaTeX Font Info:    ... okay on input line 18.
 
 
 ("C:\Users\Pieter\Documents\--- SCHOOL ---\GitHub\A&D\AD-assignment1\AD-assignm
-ent1\title.tex"
+ent1\report\title.tex" <logo.jpg, id=1, 173.64874pt x 292.09125pt>
+File: logo.jpg Graphic file (type jpg)
+
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 3.
+(pdftex.def)             Requested size: 43.41208pt x 73.02263pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 28.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 28.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{C:/Users/Pieter/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/P
+ieter/Documents/--- SCHOOL ---/GitHub/A&D/AD-assignment1/AD-assignment1/report/
+logo.jpg>])
+("C:\Users\Pieter\Documents\--- SCHOOL ---\GitHub\A&D\AD-assignment1\AD-assignm
+ent1\report\report.toc")
+\tf@toc=\write3
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+[2] <unsortedChart.pdf, id=20, 515.9275pt x 309.155pt>
+File: unsortedChart.pdf Graphic file (type pdf)
+ <use unsortedChart.pdf>
+Package pdftex.def Info: unsortedChart.pdf used on input line 43.
+(pdftex.def)             Requested size: 438.54045pt x 262.78297pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--46
+
+ []
+
+<sortedChart.pdf, id=21, 517.935pt x 320.19624pt>
+File: sortedChart.pdf Graphic file (type pdf)
+ <use sortedChart.pdf>
+Package pdftex.def Info: sortedChart.pdf used on input line 50.
+(pdftex.def)             Requested size: 440.24681pt x 272.16808pt.
+
+[3 <C:/Users/Pieter/Documents/--- SCHOOL ---/GitHub/A&D/AD-assignment1/AD-assig
+nment1/report/unsortedChart.pdf> <C:/Users/Pieter/Documents/--- SCHOOL ---/GitH
+ub/A&D/AD-assignment1/AD-assignment1/report/sortedChart.pdf
+
+pdfTeX warning: pdflatex (file C:/Users/Pieter/Documents/--- SCHOOL ---/GitHub/
+A&D/AD-assignment1/AD-assignment1/report/sortedChart.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+
+ []
+
+[4] <insertionDRdata.pdf, id=54, 223.83624pt x 219.82124pt>
+File: insertionDRdata.pdf Graphic file (type pdf)
+
+<use insertionDRdata.pdf>
+Package pdftex.def Info: insertionDRdata.pdf used on input line 120.
+(pdftex.def)             Requested size: 223.8357pt x 219.8207pt.
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 124--126
+
+ []
+
+<quickDRdata.pdf, id=58, 222.8325pt x 320.19624pt>
+File: quickDRdata.pdf Graphic file (type pdf)
+ <use quickDRdata.pdf>
+Package pdftex.def Info: quickDRdata.pdf used on input line 135.
+(pdftex.def)             Requested size: 222.83195pt x 320.19545pt.
+
+[6 <C:/Users/Pieter/Documents/--- SCHOOL ---/GitHub/A&D/AD-assignment1/AD-assig
+nment1/report/insertionDRdata.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+[7 <C:/Users/Pieter/Documents/--- SCHOOL ---/GitHub/A&D/AD-assignment1/AD-assig
+nment1/report/quickDRdata.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+[8]
+("C:\Users\Pieter\Documents\--- SCHOOL ---\GitHub\A&D\AD-assignment1\AD-assignm
+ent1\report\report.bbl") [9]
+("C:\Users\Pieter\Documents\--- SCHOOL ---\GitHub\A&D\AD-assignment1\AD-assignm
+ent1\report\report.aux") ) 
+Here is how much of TeX's memory you used:
+ 3520 strings out of 493921
+ 45369 string characters out of 3144873
+ 114028 words of memory out of 3000000
+ 6747 multiletter control sequences out of 15000+200000
+ 12716 words of font info for 46 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 27i,8n,24p,695b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmbxti10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmcsc10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti7.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on report.pdf (10 pages, 1171036 bytes).
+PDF statistics:
+ 143 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
